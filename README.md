@@ -1,5 +1,4 @@
-### Hi there 👋 I'm segyo myung
-
+### Hi there 👋  
 
 ## Contributions
 https://github.com/django/django
